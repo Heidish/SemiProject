@@ -1,0 +1,71 @@
+@CHARSET "UTF-8";
+@import url(http://fonts.googleapis.com/earlyaccess/jejugothic.css);
+@import url(http://fonts.googleapis.com/earlyaccess/jejuhallasan.css);
+@import url(http://fonts.googleapis.com/earlyaccess/nanumpenscript.css);
+	
+	body
+	{
+		font-size : 30px;
+		color : black;
+		font-family: 'Jeju Gothic', serif;
+		background-color : lightyellow;
+	}
+	
+	h2
+	{
+		margin : 20px 10px 40px 10px;
+		font-family: 'Nanum Pen Script', serif;
+		font-size : 80px;
+		text-shadow : 3px 3px 8px gray;
+		text-align : center;
+	}
+	
+	tr td 
+	{
+		font-size : 14pt;
+		border : 0px solid lightyellow;
+	
+		height : 70px;
+		padding : 5px;
+		text-align : center;
+		color : #000000;
+		background-color : lightblue;
+	}
+	
+	a
+	{
+		text-decoration : none;
+	}
+	
+	.field 
+	{
+		float : left;
+	}
+	
+	.home 
+	{
+		float : right;
+	}
+	
+	.back
+	{
+		position: relative;
+    	right: auto;
+    	bottom: auto;
+	}
+	
+	.back
+	{
+		border : 0px;
+		background-color : lightyellow;
+	}
+	
+	
+	
+	#pokemonBook
+	 {
+		width : 330px;
+		height : 500px;
+		float : left;
+	}
+	
